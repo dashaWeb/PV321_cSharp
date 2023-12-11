@@ -1,0 +1,8 @@
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\bin\Debug\01_intro.exe.config
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\bin\Debug\01_intro.exe
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\bin\Debug\01_intro.pdb
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\obj\Debug\01_intro.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\obj\Debug\01_intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\obj\Debug\01_intro.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\obj\Debug\01_intro.exe
+C:\Users\dev\source\repos\BV_321_cSharp\01_intro\obj\Debug\01_intro.pdb
