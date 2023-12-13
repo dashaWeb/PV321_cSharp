@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\bin\Debug\02_ref_out_params.exe.config
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\bin\Debug\02_ref_out_params.exe
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\bin\Debug\02_ref_out_params.pdb
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\obj\Debug\02_ref_out_params.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\obj\Debug\02_ref_out_params.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\obj\Debug\02_ref_out_params.exe
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\02_ref_out_params\obj\Debug\02_ref_out_params.pdb

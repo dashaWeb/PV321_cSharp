@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\bin\Debug\01_helper home date.exe.config
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\bin\Debug\01_helper home date.exe
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\bin\Debug\01_helper home date.pdb
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\obj\Debug\01_helper home date.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\obj\Debug\01_helper home date.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\obj\Debug\01_helper home date.exe
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\01_helper home date\obj\Debug\01_helper home date.pdb

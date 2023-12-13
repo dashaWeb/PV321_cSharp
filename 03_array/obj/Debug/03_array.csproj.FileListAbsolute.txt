@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\bin\Debug\03_array.exe.config
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\bin\Debug\03_array.exe
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\bin\Debug\03_array.pdb
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\obj\Debug\03_array.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\obj\Debug\03_array.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\obj\Debug\03_array.exe
+D:\Dasha\Programming\C#_Examples\PV321_cSharp\03_array\obj\Debug\03_array.pdb
