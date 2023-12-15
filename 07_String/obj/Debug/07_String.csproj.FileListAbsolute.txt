@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\bin\Debug\07_String.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\bin\Debug\07_String.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\bin\Debug\07_String.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\obj\Debug\07_String.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\obj\Debug\07_String.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\obj\Debug\07_String.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\07_String\obj\Debug\07_String.pdb

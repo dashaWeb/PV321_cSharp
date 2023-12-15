@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\bin\Debug\04_2DArrays.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\bin\Debug\04_2DArrays.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\bin\Debug\04_2DArrays.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\obj\Debug\04_2DArrays.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\obj\Debug\04_2DArrays.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\obj\Debug\04_2DArrays.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\04_2DArrays\obj\Debug\04_2DArrays.pdb

@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\bin\Debug\08_Enum.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\bin\Debug\08_Enum.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\bin\Debug\08_Enum.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\obj\Debug\08_Enum.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\obj\Debug\08_Enum.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\obj\Debug\08_Enum.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\08_Enum\obj\Debug\08_Enum.pdb

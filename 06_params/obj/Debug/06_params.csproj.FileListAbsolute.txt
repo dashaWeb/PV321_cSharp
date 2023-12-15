@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\bin\Debug\06_params.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\bin\Debug\06_params.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\bin\Debug\06_params.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\obj\Debug\06_params.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\obj\Debug\06_params.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\obj\Debug\06_params.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\06_params\obj\Debug\06_params.pdb

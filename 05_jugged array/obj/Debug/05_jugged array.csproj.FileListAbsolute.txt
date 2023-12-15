@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\bin\Debug\05_jugged array.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\bin\Debug\05_jugged array.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\bin\Debug\05_jugged array.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\obj\Debug\05_jugged array.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\obj\Debug\05_jugged array.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\obj\Debug\05_jugged array.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\05_jugged array\obj\Debug\05_jugged array.pdb
