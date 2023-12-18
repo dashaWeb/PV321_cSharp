@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\bin\Debug\11_static class demo.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\bin\Debug\11_static class demo.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\bin\Debug\11_static class demo.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\obj\Debug\11_static class demo.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\obj\Debug\11_static class demo.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\obj\Debug\11_static class demo.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\11_static class demo\obj\Debug\11_static class demo.pdb

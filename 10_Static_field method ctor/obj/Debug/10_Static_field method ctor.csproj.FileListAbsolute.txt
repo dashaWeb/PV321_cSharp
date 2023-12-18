@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\obj\Debug\10_Static_field method ctor.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\obj\Debug\10_Static_field method ctor.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\bin\Debug\10_Static_field method ctor.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\bin\Debug\10_Static_field method ctor.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\bin\Debug\10_Static_field method ctor.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\obj\Debug\10_Static_field method ctor.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\10_Static_field method ctor\obj\Debug\10_Static_field method ctor.pdb

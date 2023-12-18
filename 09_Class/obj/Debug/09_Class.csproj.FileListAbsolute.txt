@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\bin\Debug\09_Class.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\bin\Debug\09_Class.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\bin\Debug\09_Class.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\obj\Debug\09_Class.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\obj\Debug\09_Class.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\obj\Debug\09_Class.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\09_Class\obj\Debug\09_Class.pdb

@@ -7,6 +7,20 @@ using System.Threading.Tasks;
 
 namespace _05_jugged_array
 {
+    /*1. Створити статичні методи для роботи з рваним 2-вимірним масивом(масив масивів).
+	- заповнення масиву випадковими числами+
+	- вивід на екран +
+	- циклічний зсув рядків матриці вверх на певну кількість рядків
+	- циклічний зсув рядків матриці вниз на певну кількість рядків
+ 	- додавання до матриці нового рядка(як останнього)  void AddRow(ref int[][] matrix, int[] newRow)+
+	- вилучення рядка з матриці за індексом
+
+--------------------------Методи ------------------
+3. Визначити метод для знаходження у рваному двовимірному масиві максимального та мінімального.
+    Метод повинен повертати ці значення через свої параметри.
+
+* Створити тривимірний прямокутний(чи масив масивів) з цілих чисел.Знайти суми елементів кожного підмасиву(матриці).
+Для виконання задачі створити відповідні методи(створення масиву, заповнення числами, вивід, обрахунок суми).*/
     internal class Program
     {
         static void printJugged(int[][] arr, string prompt = "")
@@ -66,7 +80,7 @@ namespace _05_jugged_array
                 SwapRow(arr, i, arr.Length - 1 - i);
             }
         }
-        static void PushRow(ref int[][]arr, int size)
+        static void PushRow(ref int[][]arr, int[] newRow)
         {
             /*int[][] tmp = new int[arr.Length + 1][];
             for (int i = 0; i < arr.Length; i++)
@@ -76,7 +90,67 @@ namespace _05_jugged_array
             tmp[arr.Length] = new int[size];
             arr = tmp;*/
             Array.Resize(ref arr, arr.Length + 1);
-            arr[arr.Length - 1] = new int[size];
+            arr[arr.Length - 1] = newRow;
+        }
+        static void Remove(ref int[][] arr, int index)
+        {
+            if(index >= 0 && index < arr.Length)
+            {
+                int[][] tmp = new int[arr.Length - 1][];
+                for (int i = 0;i < tmp.Length;i++)
+                {
+                    if (i < index)
+                    {
+                        tmp[i] = arr[i];
+                    }
+                    else
+                    {
+                        tmp[i] = arr[i+1];
+                    }
+                }
+                arr = tmp;
+            }
+        }
+        static void Up(int[][] arr, int count)
+        {
+            for (int j = 0; j < count%arr.Length; j++)
+            {
+                var tmp = arr[0];
+                for (int i = 0; i < arr.Length - 1; i++)
+                {
+                    arr[i] = arr[i + 1];
+                }
+                arr[arr.Length - 1] = tmp;
+            }
+            
+        }
+        static void Down(int[][] arr, int count)
+        {
+            for (int j = 0; j < count % arr.Length; j++)
+            {
+                var tmp = arr[arr.Length - 1];
+                for (int i = arr.Length - 1; i > 0; i--)
+                {
+                    arr[i] = arr[i - 1];
+                }
+                arr[0] = tmp;
+            }
+        }
+        static void MinMax(int [][] arr, out int min, out int max)
+        {
+            min = arr[0].Min();
+            max = arr[0].Max();
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if(min > arr[i].Min())
+                {
+                    min = arr[i].Min();
+                }
+                if (max < arr[i].Max())
+                {
+                    max = arr[i].Max();
+                }
+            }
         }
         static void SumInRow(int[][]arr)
         {
@@ -121,12 +195,19 @@ namespace _05_jugged_array
             printJugged(mas, "\nPrint second array");
 
             Console.WriteLine();
-            PushRow(ref mas, 10);
+            PushRow(ref mas, new int[11]);
             printJugged(mas, "\nPrint second array");
             SumInRow(mas);
             printJugged(mas, "\nPrint second array");
             ReverseRows(mas);
             printJugged(mas, "\nPrint second array");
+
+            Console.WriteLine();
+            Down(mas, 3);
+            printJugged(mas, "\nPrint second array");
+            int min,max;
+            MinMax(mas, out min, out max);
+            Console.WriteLine($"Min : {min}, Max : {max}");
         }
     }
 }
