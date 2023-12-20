@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\bin\Debug\13_indexers.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\bin\Debug\13_indexers.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\bin\Debug\13_indexers.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\obj\Debug\13_indexers.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\obj\Debug\13_indexers.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\obj\Debug\13_indexers.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\13_indexers\obj\Debug\13_indexers.pdb

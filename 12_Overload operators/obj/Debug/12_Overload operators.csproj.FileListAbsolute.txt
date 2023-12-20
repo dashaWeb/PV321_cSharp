@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\bin\Debug\12_Overload operators.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\bin\Debug\12_Overload operators.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\bin\Debug\12_Overload operators.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\obj\Debug\12_Overload operators.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\obj\Debug\12_Overload operators.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\obj\Debug\12_Overload operators.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\12_Overload operators\obj\Debug\12_Overload operators.pdb
