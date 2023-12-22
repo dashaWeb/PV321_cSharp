@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Overload operators", "12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_indexers", "13_indexers\13_indexers.csproj", "{2863692E-7FB7-47D8-8426-6FF3C813F496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Exception", "14_Exception\14_Exception.csproj", "{85886CDA-FB5F-4C44-B1D7-A45D5BC172BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Namespaces", "15_Namespaces\15_Namespaces.csproj", "{48E3338B-06FB-40E9-82E0-77375D83E6EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{2863692E-7FB7-47D8-8426-6FF3C813F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2863692E-7FB7-47D8-8426-6FF3C813F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2863692E-7FB7-47D8-8426-6FF3C813F496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85886CDA-FB5F-4C44-B1D7-A45D5BC172BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85886CDA-FB5F-4C44-B1D7-A45D5BC172BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85886CDA-FB5F-4C44-B1D7-A45D5BC172BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85886CDA-FB5F-4C44-B1D7-A45D5BC172BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E3338B-06FB-40E9-82E0-77375D83E6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E3338B-06FB-40E9-82E0-77375D83E6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E3338B-06FB-40E9-82E0-77375D83E6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E3338B-06FB-40E9-82E0-77375D83E6EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

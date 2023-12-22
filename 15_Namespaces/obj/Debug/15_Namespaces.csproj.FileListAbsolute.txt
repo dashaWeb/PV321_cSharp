@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\bin\Debug\15_Namespaces.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\bin\Debug\15_Namespaces.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\bin\Debug\15_Namespaces.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\obj\Debug\15_Namespaces.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\obj\Debug\15_Namespaces.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\obj\Debug\15_Namespaces.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\15_Namespaces\obj\Debug\15_Namespaces.pdb

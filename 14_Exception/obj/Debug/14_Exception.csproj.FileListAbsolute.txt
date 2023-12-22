@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\bin\Debug\14_Exception.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\bin\Debug\14_Exception.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\bin\Debug\14_Exception.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\obj\Debug\14_Exception.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\obj\Debug\14_Exception.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\obj\Debug\14_Exception.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\14_Exception\obj\Debug\14_Exception.pdb
