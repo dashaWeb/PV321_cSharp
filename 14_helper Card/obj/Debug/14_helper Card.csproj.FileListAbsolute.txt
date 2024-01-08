@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\bin\Debug\14_helper Card.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\bin\Debug\14_helper Card.exe
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\bin\Debug\14_helper Card.pdb
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\obj\Debug\14_helper Card.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\obj\Debug\14_helper Card.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\obj\Debug\14_helper Card.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\obj\Debug\14_helper Card.exe
+C:\Users\dev\Desktop\PV321_cSharp\14_helper Card\obj\Debug\14_helper Card.pdb
