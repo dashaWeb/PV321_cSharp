@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\bin\Debug\18_ExtensionMethods.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\bin\Debug\18_ExtensionMethods.exe
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\bin\Debug\18_ExtensionMethods.pdb
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\obj\Debug\18_ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\obj\Debug\18_ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\obj\Debug\18_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\obj\Debug\18_ExtensionMethods.exe
+C:\Users\dev\Desktop\PV321_cSharp\18_ExtensionMethods\obj\Debug\18_ExtensionMethods.pdb

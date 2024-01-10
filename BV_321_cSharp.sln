@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Null_Nullable", "16_Null
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_inheritance", "17_inheritance\17_inheritance.csproj", "{FB901676-66F4-43E4-8067-5F1FEE269710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_ExtensionMethods", "18_ExtensionMethods\18_ExtensionMethods.csproj", "{1E45315A-5DD7-4066-A643-2D869C21449B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Interface", "19_Interface\19_Interface.csproj", "{E8922E25-30FB-4557-AB13-46D7024F81F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{FB901676-66F4-43E4-8067-5F1FEE269710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB901676-66F4-43E4-8067-5F1FEE269710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB901676-66F4-43E4-8067-5F1FEE269710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E45315A-5DD7-4066-A643-2D869C21449B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E45315A-5DD7-4066-A643-2D869C21449B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E45315A-5DD7-4066-A643-2D869C21449B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E45315A-5DD7-4066-A643-2D869C21449B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8922E25-30FB-4557-AB13-46D7024F81F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8922E25-30FB-4557-AB13-46D7024F81F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8922E25-30FB-4557-AB13-46D7024F81F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8922E25-30FB-4557-AB13-46D7024F81F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

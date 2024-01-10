@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\bin\Debug\19_Interface.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\bin\Debug\19_Interface.exe
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\bin\Debug\19_Interface.pdb
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\obj\Debug\19_Interface.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\obj\Debug\19_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\obj\Debug\19_Interface.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\obj\Debug\19_Interface.exe
+C:\Users\dev\Desktop\PV321_cSharp\19_Interface\obj\Debug\19_Interface.pdb
