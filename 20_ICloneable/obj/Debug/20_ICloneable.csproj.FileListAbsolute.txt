@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\bin\Debug\20_ICloneable.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\bin\Debug\20_ICloneable.exe
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\bin\Debug\20_ICloneable.pdb
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\obj\Debug\20_ICloneable.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\obj\Debug\20_ICloneable.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\obj\Debug\20_ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\obj\Debug\20_ICloneable.exe
+C:\Users\dev\Desktop\PV321_cSharp\20_ICloneable\obj\Debug\20_ICloneable.pdb

@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\bin\Debug\23_iComparable.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\bin\Debug\23_iComparable.exe
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\bin\Debug\23_iComparable.pdb
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\obj\Debug\23_iComparable.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\obj\Debug\23_iComparable.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\obj\Debug\23_iComparable.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\obj\Debug\23_iComparable.exe
+C:\Users\dev\Desktop\PV321_cSharp\23_iComparable\obj\Debug\23_iComparable.pdb

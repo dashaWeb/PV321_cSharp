@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\bin\Debug\22_IEnumerator.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\bin\Debug\22_IEnumerator.exe
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\bin\Debug\22_IEnumerator.pdb
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\obj\Debug\22_IEnumerator.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\obj\Debug\22_IEnumerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\obj\Debug\22_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\obj\Debug\22_IEnumerator.exe
+C:\Users\dev\Desktop\PV321_cSharp\22_IEnumerator\obj\Debug\22_IEnumerator.pdb

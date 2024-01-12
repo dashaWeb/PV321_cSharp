@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\bin\Debug\21_IEnumerable.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\bin\Debug\21_IEnumerable.exe
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\bin\Debug\21_IEnumerable.pdb
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\obj\Debug\21_IEnumerable.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\obj\Debug\21_IEnumerable.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\obj\Debug\21_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\obj\Debug\21_IEnumerable.exe
+C:\Users\dev\Desktop\PV321_cSharp\21_IEnumerable\obj\Debug\21_IEnumerable.pdb
