@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\bin\Debug\24_generics_methods.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\bin\Debug\24_generics_methods.exe
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\bin\Debug\24_generics_methods.pdb
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\obj\Debug\24_generics_methods.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\obj\Debug\24_generics_methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\obj\Debug\24_generics_methods.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\obj\Debug\24_generics_methods.exe
+C:\Users\dev\Desktop\PV321_cSharp\24_generics_methods\obj\Debug\24_generics_methods.pdb

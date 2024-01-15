@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_IEnumerator", "22_IEnume
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_iComparable", "23_iComparable\23_iComparable.csproj", "{4A9C9EA8-86DA-427B-BD80-D4E569ADB8FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_generics_methods", "24_generics_methods\24_generics_methods.csproj", "{F2BC483F-D1C1-43CC-ABCC-0A1FA5B93710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_ArrayList vs List", "25_ArrayList vs List\25_ArrayList vs List.csproj", "{7AE0C27F-43DF-4313-89D1-16A6F8B02AEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{4A9C9EA8-86DA-427B-BD80-D4E569ADB8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9C9EA8-86DA-427B-BD80-D4E569ADB8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9C9EA8-86DA-427B-BD80-D4E569ADB8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BC483F-D1C1-43CC-ABCC-0A1FA5B93710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BC483F-D1C1-43CC-ABCC-0A1FA5B93710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BC483F-D1C1-43CC-ABCC-0A1FA5B93710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BC483F-D1C1-43CC-ABCC-0A1FA5B93710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE0C27F-43DF-4313-89D1-16A6F8B02AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE0C27F-43DF-4313-89D1-16A6F8B02AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE0C27F-43DF-4313-89D1-16A6F8B02AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE0C27F-43DF-4313-89D1-16A6F8B02AEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\bin\Debug\25_ArrayList vs List.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\bin\Debug\25_ArrayList vs List.exe
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\bin\Debug\25_ArrayList vs List.pdb
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\obj\Debug\25_ArrayList vs List.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\obj\Debug\25_ArrayList vs List.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\obj\Debug\25_ArrayList vs List.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\obj\Debug\25_ArrayList vs List.exe
+C:\Users\dev\Desktop\PV321_cSharp\25_ArrayList vs List\obj\Debug\25_ArrayList vs List.pdb
