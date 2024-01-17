@@ -78,6 +78,8 @@ namespace _24_generics_methods
             Max(person_1,person_2).Busy();
             Employee employee= new Employee { Name = "Masha", Age = 21};
             CheckBusy<Employee>(employee);
+
+            List<Employee> employees = new List<Employee>();
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\bin\Debug\27_Dictionary.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\bin\Debug\27_Dictionary.exe
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\bin\Debug\27_Dictionary.pdb
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\obj\Debug\27_Dictionary.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\obj\Debug\27_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\obj\Debug\27_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\obj\Debug\27_Dictionary.exe
+C:\Users\dev\Desktop\PV321_cSharp\27_Dictionary\obj\Debug\27_Dictionary.pdb

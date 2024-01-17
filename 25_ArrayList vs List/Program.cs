@@ -77,6 +77,8 @@ namespace _25_ArrayList_vs_List
 
             li.Sort((s1,s2) => s1.Length.CompareTo(s2.Length));
             Print(li);
+
+            
         }
 
         static void Print(IEnumerable list, string text = "")

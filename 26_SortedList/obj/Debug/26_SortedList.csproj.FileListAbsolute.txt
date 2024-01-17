@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\bin\Debug\26_SortedList.exe.config
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\bin\Debug\26_SortedList.exe
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\bin\Debug\26_SortedList.pdb
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\obj\Debug\26_SortedList.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\obj\Debug\26_SortedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\obj\Debug\26_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\obj\Debug\26_SortedList.exe
+C:\Users\dev\Desktop\PV321_cSharp\26_SortedList\obj\Debug\26_SortedList.pdb
