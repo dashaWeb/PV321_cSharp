@@ -1,0 +1,8 @@
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\bin\Debug\31_Std delegate.exe.config
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\bin\Debug\31_Std delegate.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\bin\Debug\31_Std delegate.pdb
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\obj\Debug\31_Std delegate.csproj.AssemblyReference.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\obj\Debug\31_Std delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\obj\Debug\31_Std delegate.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\obj\Debug\31_Std delegate.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\31_Std delegate\obj\Debug\31_Std delegate.pdb

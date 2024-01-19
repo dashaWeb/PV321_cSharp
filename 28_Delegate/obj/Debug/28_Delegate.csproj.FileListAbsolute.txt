@@ -1,0 +1,8 @@
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\bin\Debug\28_Delegate.exe.config
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\bin\Debug\28_Delegate.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\bin\Debug\28_Delegate.pdb
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\obj\Debug\28_Delegate.csproj.AssemblyReference.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\obj\Debug\28_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\obj\Debug\28_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\obj\Debug\28_Delegate.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\28_Delegate\obj\Debug\28_Delegate.pdb

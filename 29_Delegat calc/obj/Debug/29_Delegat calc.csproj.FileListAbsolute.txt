@@ -1,0 +1,8 @@
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\bin\Debug\29_Delegat calc.exe.config
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\bin\Debug\29_Delegat calc.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\bin\Debug\29_Delegat calc.pdb
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\obj\Debug\29_Delegat calc.csproj.AssemblyReference.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\obj\Debug\29_Delegat calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\obj\Debug\29_Delegat calc.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\obj\Debug\29_Delegat calc.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\29_Delegat calc\obj\Debug\29_Delegat calc.pdb

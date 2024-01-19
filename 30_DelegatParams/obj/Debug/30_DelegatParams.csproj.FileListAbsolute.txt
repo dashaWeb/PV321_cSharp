@@ -1,0 +1,8 @@
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\bin\Debug\30_DelegatParams.exe.config
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\bin\Debug\30_DelegatParams.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\bin\Debug\30_DelegatParams.pdb
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\obj\Debug\30_DelegatParams.csproj.AssemblyReference.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\obj\Debug\30_DelegatParams.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\obj\Debug\30_DelegatParams.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\obj\Debug\30_DelegatParams.exe
+C:\Users\konopelko\Source\Repos\PV321_cSharp\30_DelegatParams\obj\Debug\30_DelegatParams.pdb
