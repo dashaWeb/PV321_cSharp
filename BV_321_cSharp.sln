@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_DelegatParams", "30_Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_Std delegate", "31_Std delegate\31_Std delegate.csproj", "{A5674B28-F6A5-4EAF-B8CA-81D7DC9B4B18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_Event", "32_Event\32_Event.csproj", "{A2164961-618C-42CE-B2FE-E6B6E258E92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_EventHandler", "33_EventHandler\33_EventHandler.csproj", "{730FB307-5E65-46B7-9353-548D034EFD79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +211,14 @@ Global
 		{A5674B28-F6A5-4EAF-B8CA-81D7DC9B4B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5674B28-F6A5-4EAF-B8CA-81D7DC9B4B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5674B28-F6A5-4EAF-B8CA-81D7DC9B4B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2164961-618C-42CE-B2FE-E6B6E258E92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2164961-618C-42CE-B2FE-E6B6E258E92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2164961-618C-42CE-B2FE-E6B6E258E92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2164961-618C-42CE-B2FE-E6B6E258E92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730FB307-5E65-46B7-9353-548D034EFD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730FB307-5E65-46B7-9353-548D034EFD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730FB307-5E65-46B7-9353-548D034EFD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730FB307-5E65-46B7-9353-548D034EFD79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

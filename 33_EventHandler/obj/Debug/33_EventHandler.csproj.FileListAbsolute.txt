@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\bin\Debug\33_EventHandler.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\bin\Debug\33_EventHandler.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\bin\Debug\33_EventHandler.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\obj\Debug\33_EventHandler.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\obj\Debug\33_EventHandler.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\obj\Debug\33_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\obj\Debug\33_EventHandler.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\33_EventHandler\obj\Debug\33_EventHandler.pdb
