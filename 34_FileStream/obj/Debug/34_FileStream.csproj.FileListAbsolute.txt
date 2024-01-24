@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\bin\Debug\34_FileStream.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\bin\Debug\34_FileStream.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\bin\Debug\34_FileStream.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\obj\Debug\34_FileStream.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\obj\Debug\34_FileStream.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\obj\Debug\34_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\obj\Debug\34_FileStream.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\34_FileStream\obj\Debug\34_FileStream.pdb

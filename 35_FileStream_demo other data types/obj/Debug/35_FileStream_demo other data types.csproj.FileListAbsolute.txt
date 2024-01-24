@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\bin\Debug\35_FileStream_demo other data types.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\bin\Debug\35_FileStream_demo other data types.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\bin\Debug\35_FileStream_demo other data types.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\obj\Debug\35_FileStream_demo other data types.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\obj\Debug\35_FileStream_demo other data types.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\obj\Debug\35_FileStream_demo other data types.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\obj\Debug\35_FileStream_demo other data types.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\35_FileStream_demo other data types\obj\Debug\35_FileStream_demo other data types.pdb

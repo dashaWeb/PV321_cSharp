@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\bin\Debug\36_BinaryReader_Writer.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\bin\Debug\36_BinaryReader_Writer.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\bin\Debug\36_BinaryReader_Writer.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\obj\Debug\36_BinaryReader_Writer.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\obj\Debug\36_BinaryReader_Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\obj\Debug\36_BinaryReader_Writer.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\obj\Debug\36_BinaryReader_Writer.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\36_BinaryReader_Writer\obj\Debug\36_BinaryReader_Writer.pdb

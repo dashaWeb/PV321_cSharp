@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\bin\Debug\37_StreamReader_Writer.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\bin\Debug\37_StreamReader_Writer.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\bin\Debug\37_StreamReader_Writer.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\obj\Debug\37_StreamReader_Writer.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\obj\Debug\37_StreamReader_Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\obj\Debug\37_StreamReader_Writer.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\obj\Debug\37_StreamReader_Writer.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\37_StreamReader_Writer\obj\Debug\37_StreamReader_Writer.pdb
