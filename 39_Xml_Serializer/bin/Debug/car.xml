@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Brand>Ford</Brand>
+  <Engine>
+    <Power>2.3</Power>
+  </Engine>
+</Car>

@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\bin\Debug\39_Xml_Serializer.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\bin\Debug\39_Xml_Serializer.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\bin\Debug\39_Xml_Serializer.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\obj\Debug\39_Xml_Serializer.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\obj\Debug\39_Xml_Serializer.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\obj\Debug\39_Xml_Serializer.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\39_Xml_Serializer\obj\Debug\39_Xml_Serializer.pdb

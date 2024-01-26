@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\bin\Debug\38_Binary_Serializer.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\bin\Debug\38_Binary_Serializer.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\bin\Debug\38_Binary_Serializer.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\obj\Debug\38_Binary_Serializer.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\obj\Debug\38_Binary_Serializer.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\obj\Debug\38_Binary_Serializer.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\38_Binary_Serializer\obj\Debug\38_Binary_Serializer.pdb
