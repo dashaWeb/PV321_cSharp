@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\bin\Debug\38_File_FileInfo.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\bin\Debug\38_File_FileInfo.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\bin\Debug\38_File_FileInfo.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\obj\Debug\38_File_FileInfo.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\obj\Debug\38_File_FileInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\obj\Debug\38_File_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\obj\Debug\38_File_FileInfo.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\38_File_FileInfo\obj\Debug\38_File_FileInfo.pdb
