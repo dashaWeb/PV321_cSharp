@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>Ford</Brand>
+    <Engine>
+      <Power>2.3</Power>
+    </Engine>
+  </Car>
+  <Car>
+    <Brand>BMW</Brand>
+    <Engine>
+      <Power>2.9</Power>
+    </Engine>
+  </Car>
+</ArrayOfCar>
