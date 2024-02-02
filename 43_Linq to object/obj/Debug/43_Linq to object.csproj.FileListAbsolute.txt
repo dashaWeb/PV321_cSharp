@@ -1,0 +1,7 @@
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\bin\Debug\43_Linq to object.exe.config
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\bin\Debug\43_Linq to object.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\bin\Debug\43_Linq to object.pdb
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\obj\Debug\43_Linq to object.csproj.AssemblyReference.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\obj\Debug\43_Linq to object.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\obj\Debug\43_Linq to object.exe
+D:\Dasha\Programming\C#_Examples_groups\PV321_cSharp\43_Linq to object\obj\Debug\43_Linq to object.pdb

@@ -1,0 +1,8 @@
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\bin\Debug\39_Directory_DirectoryInfo.exe.config
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\bin\Debug\39_Directory_DirectoryInfo.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\bin\Debug\39_Directory_DirectoryInfo.pdb
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\obj\Debug\39_Directory_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\obj\Debug\39_Directory_DirectoryInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\obj\Debug\39_Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\obj\Debug\39_Directory_DirectoryInfo.exe
+C:\Users\konopelko\source\repos\PV321_cSharp\39_Directory_DirectoryInfo\obj\Debug\39_Directory_DirectoryInfo.pdb
